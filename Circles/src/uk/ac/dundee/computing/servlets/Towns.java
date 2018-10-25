@@ -24,7 +24,7 @@ public class Towns extends HttpServlet {
 	LinkedList<Town> ccl= new LinkedList();   
      
 	String name[]={"Ampthill",
-			"Arlsey",
+			"Arlssey",
 			"Bedford",
 			"Biggleswade",
 			"Dunstable",
