@@ -34,7 +34,6 @@ public class Circles extends HttpServlet {
 	 */
 	public void init(ServletConfig config) throws ServletException {
 		// TODO Auto-generated method stub
-		pass;
 		Circle cc=new Circle();
 		cc.create(10, 20, 5);
 		ccl.add(cc);
